@@ -1,0 +1,502 @@
+[
+  {
+    "donation": 1,
+    "percentage": 13.315018758917299,
+    "amount": 4.205210742426715
+  },
+  {
+    "donation": 2,
+    "percentage": 18.663449643863768,
+    "amount": 5.74879664919397
+  },
+  {
+    "donation": 3,
+    "percentage": 22.692928464194217,
+    "amount": 6.844421896002963
+  },
+  {
+    "donation": 4,
+    "percentage": 26.0371639435433,
+    "amount": 7.706797908678993
+  },
+  {
+    "donation": 5,
+    "percentage": 28.94217846952465,
+    "amount": 8.420002627758628
+  },
+  {
+    "donation": 6,
+    "percentage": 31.5344124149828,
+    "amount": 9.027522436072488
+  },
+  {
+    "donation": 7,
+    "percentage": 33.88912638566693,
+    "amount": 9.555362972750146
+  },
+  {
+    "donation": 8,
+    "percentage": 36.0554497331938,
+    "amount": 10.020556453032825
+  },
+  {
+    "donation": 9,
+    "percentage": 38.06756969153074,
+    "amount": 10.434979893921337
+  },
+  {
+    "donation": 10,
+    "percentage": 39.95042103202214,
+    "amount": 10.807305114199025
+  },
+  {
+    "donation": 11,
+    "percentage": 41.7228588675873,
+    "amount": 11.144090486373763
+  },
+  {
+    "donation": 12,
+    "percentage": 43.399555170739184,
+    "amount": 11.450435917873435
+  },
+  {
+    "donation": 13,
+    "percentage": 44.992195693440536,
+    "amount": 11.730397608784493
+  },
+  {
+    "donation": 14,
+    "percentage": 46.51026914478511,
+    "amount": 11.987262356899798
+  },
+  {
+    "donation": 15,
+    "percentage": 47.96160662137176,
+    "amount": 12.223735576282664
+  },
+  {
+    "donation": 16,
+    "percentage": 49.35276164084346,
+    "amount": 12.442074090092042
+  },
+  {
+    "donation": 17,
+    "percentage": 50.68928485638279,
+    "amount": 12.644182337570378
+  },
+  {
+    "donation": 18,
+    "percentage": 51.975927091908694,
+    "amount": 12.831683619562554
+  },
+  {
+    "donation": 19,
+    "percentage": 53.21679232742718,
+    "amount": 13.005973874671305
+  },
+  {
+    "donation": 20,
+    "percentage": 54.41545494637996,
+    "amount": 13.168262954790997
+  },
+  {
+    "donation": 21,
+    "percentage": 55.57505095592149,
+    "amount": 13.319606778765
+  },
+  {
+    "donation": 22,
+    "percentage": 56.69834991721792,
+    "amount": 13.4609327130595
+  },
+  {
+    "donation": 23,
+    "percentage": 57.78781235308285,
+    "amount": 13.593059844831942
+  },
+  {
+    "donation": 24,
+    "percentage": 58.84563606673877,
+    "amount": 13.716715349146511
+  },
+  {
+    "donation": 25,
+    "percentage": 59.873793884834924,
+    "amount": 13.832547831409947
+  },
+  {
+    "donation": 26,
+    "percentage": 60.87406469087513,
+    "amount": 13.94113830034955
+  },
+  {
+    "donation": 27,
+    "percentage": 61.848059153190704,
+    "amount": 14.043009265369804
+  },
+  {
+    "donation": 28,
+    "percentage": 62.797241216785984,
+    "amount": 14.138632334907612
+  },
+  {
+    "donation": 29,
+    "percentage": 63.72294618247732,
+    "amount": 14.228434606186433
+  },
+  {
+    "donation": 30,
+    "percentage": 64.62639601389796,
+    "amount": 14.312804072558748
+  },
+  {
+    "donation": 31,
+    "percentage": 65.50871237541725,
+    "amount": 14.39209422627016
+  },
+  {
+    "donation": 32,
+    "percentage": 66.37092779949818,
+    "amount": 14.46662799767185
+  },
+  {
+    "donation": 33,
+    "percentage": 67.213995301787,
+    "amount": 14.536701143625386
+  },
+  {
+    "donation": 34,
+    "percentage": 68.03879670008972,
+    "amount": 14.60258517590843
+  },
+  {
+    "donation": 35,
+    "percentage": 68.84614984484443,
+    "amount": 14.664529903278229
+  },
+  {
+    "donation": 36,
+    "percentage": 69.63681493047706,
+    "amount": 14.722765647327876
+  },
+  {
+    "donation": 37,
+    "percentage": 70.4115000267059,
+    "amount": 14.777505181535048
+  },
+  {
+    "donation": 38,
+    "percentage": 71.17086594463665,
+    "amount": 14.828945434318264
+  },
+  {
+    "donation": 39,
+    "percentage": 71.91553053301112,
+    "amount": 14.877268990006769
+  },
+  {
+    "donation": 40,
+    "percentage": 72.64607248421264,
+    "amount": 14.922645416035394
+  },
+  {
+    "donation": 41,
+    "percentage": 73.36303471680105,
+    "amount": 14.965232440119628
+  },
+  {
+    "donation": 42,
+    "percentage": 74.06692739085322,
+    "amount": 15.00517699743385
+  },
+  {
+    "donation": 43,
+    "percentage": 74.75823060374636,
+    "amount": 15.042616164743656
+  },
+  {
+    "donation": 44,
+    "percentage": 75.43739680687756,
+    "amount": 15.077677995902512
+  },
+  {
+    "donation": 45,
+    "percentage": 76.10485297788246,
+    "amount": 15.110482271009474
+  },
+  {
+    "donation": 46,
+    "percentage": 76.76100257796007,
+    "amount": 15.1411411697622
+  },
+  {
+    "donation": 47,
+    "percentage": 77.40622731976357,
+    "amount": 15.169759878060518
+  },
+  {
+    "donation": 48,
+    "percentage": 78.04088876782248,
+    "amount": 15.196437135671239
+  },
+  {
+    "donation": 49,
+    "percentage": 78.66532979051055,
+    "amount": 15.221265731713189
+  },
+  {
+    "donation": 50,
+    "percentage": 79.27987588007267,
+    "amount": 15.244332953829385
+  },
+  {
+    "donation": 51,
+    "percentage": 79.88483635509247,
+    "amount": 15.265720996154329
+  },
+  {
+    "donation": 52,
+    "percentage": 80.48050545796521,
+    "amount": 15.285507330535381
+  },
+  {
+    "donation": 53,
+    "percentage": 81.06716335838128,
+    "amount": 15.303765044912403
+  },
+  {
+    "donation": 54,
+    "percentage": 81.6450770724869,
+    "amount": 15.320563152281878
+  },
+  {
+    "donation": 55,
+    "percentage": 82.21450130623428,
+    "amount": 15.335966873260574
+  },
+  {
+    "donation": 56,
+    "percentage": 82.77567923043412,
+    "amount": 15.350037894907892
+  },
+  {
+    "donation": 57,
+    "percentage": 83.32884319415959,
+    "amount": 15.362834608157783
+  },
+  {
+    "donation": 58,
+    "percentage": 83.87421538239799,
+    "amount": 15.374412325943176
+  },
+  {
+    "donation": 59,
+    "percentage": 84.4120084231891,
+    "amount": 15.38482348386247
+  },
+  {
+    "donation": 60,
+    "percentage": 84.94242594891969,
+    "amount": 15.394117825033355
+  },
+  {
+    "donation": 61,
+    "percentage": 85.46566311593786,
+    "amount": 15.402342570601348
+  },
+  {
+    "donation": 62,
+    "percentage": 85.9819070862137,
+    "amount": 15.409542577213152
+  },
+  {
+    "donation": 63,
+    "percentage": 86.49133747438337,
+    "amount": 15.415760482627654
+  },
+  {
+    "donation": 64,
+    "percentage": 86.99412676317252,
+    "amount": 15.421036840515569
+  },
+  {
+    "donation": 65,
+    "percentage": 87.4904406898927,
+    "amount": 15.425410245392115
+  },
+  {
+    "donation": 66,
+    "percentage": 87.98043860643783,
+    "amount": 15.428917448531607
+  },
+  {
+    "donation": 67,
+    "percentage": 88.46427381496953,
+    "amount": 15.431593465629277
+  },
+  {
+    "donation": 68,
+    "percentage": 88.9420938812702,
+    "amount": 15.433471676900695
+  },
+  {
+    "donation": 69,
+    "percentage": 89.41404092755467,
+    "amount": 15.434583920242723
+  },
+  {
+    "donation": 70,
+    "percentage": 89.88025190636328,
+    "amount": 15.434960578021204
+  },
+  {
+    "donation": 71,
+    "percentage": 90.34085885701163,
+    "amount": 15.434630657996493
+  },
+  {
+    "donation": 72,
+    "percentage": 90.79598914593477,
+    "amount": 15.433621868852413
+  },
+  {
+    "donation": 73,
+    "percentage": 91.24576569214766,
+    "amount": 15.431960690750316
+  },
+  {
+    "donation": 74,
+    "percentage": 91.69030717893271,
+    "amount": 15.429672441292624
+  },
+  {
+    "donation": 75,
+    "percentage": 92.1297282527695,
+    "amount": 15.42678133724651
+  },
+  {
+    "donation": 76,
+    "percentage": 92.56413971043523,
+    "amount": 15.42331055234655
+  },
+  {
+    "donation": 77,
+    "percentage": 92.99364867512399,
+    "amount": 15.419282271468646
+  },
+  {
+    "donation": 78,
+    "percentage": 93.41835876236333,
+    "amount": 15.414717741441905
+  },
+  {
+    "donation": 79,
+    "percentage": 93.83837023644091,
+    "amount": 15.409637318742938
+  },
+  {
+    "donation": 80,
+    "percentage": 94.25378015799754,
+    "amount": 15.404060514296248
+  },
+  {
+    "donation": 81,
+    "percentage": 94.66468252338777,
+    "amount": 15.398006035586576
+  },
+  {
+    "donation": 82,
+    "percentage": 95.07116839636325,
+    "amount": 15.391491826271519
+  },
+  {
+    "donation": 83,
+    "percentage": 95.47332603258968,
+    "amount": 15.384535103468181
+  },
+  {
+    "donation": 84,
+    "percentage": 95.87124099746734,
+    "amount": 15.377152392873569
+  },
+  {
+    "donation": 85,
+    "percentage": 96.26499627769192,
+    "amount": 15.369359561865394
+  },
+  {
+    "donation": 86,
+    "percentage": 96.65467238695553,
+    "amount": 15.361171850719728
+  },
+  {
+    "donation": 87,
+    "percentage": 97.0403474661608,
+    "amount": 15.352603902069916
+  },
+  {
+    "donation": 88,
+    "percentage": 97.42209737849251,
+    "amount": 15.343669788722735
+  },
+  {
+    "donation": 89,
+    "percentage": 97.7999957996642,
+    "amount": 15.334383039938842
+  },
+  {
+    "donation": 90,
+    "percentage": 98.17411430363676,
+    "amount": 15.324756666276244
+  },
+  {
+    "donation": 91,
+    "percentage": 98.54452244408368,
+    "amount": 15.31480318308833
+  },
+  {
+    "donation": 92,
+    "percentage": 98.91128783185678,
+    "amount": 15.3045346327619
+  },
+  {
+    "donation": 93,
+    "percentage": 99.27447620869117,
+    "amount": 15.293962605773388
+  },
+  {
+    "donation": 94,
+    "percentage": 99.6341515173691,
+    "amount": 15.283098260636635
+  },
+  {
+    "donation": 95,
+    "percentage": 99.99037596854882,
+    "amount": 15.27195234281055
+  },
+  {
+    "donation": 96,
+    "percentage": 100.34321010444968,
+    "amount": 15.260535202629185
+  },
+  {
+    "donation": 97,
+    "percentage": 100.69271285957299,
+    "amount": 15.248856812313505
+  },
+  {
+    "donation": 98,
+    "percentage": 101.03894161862416,
+    "amount": 15.236926782119397
+  },
+  {
+    "donation": 99,
+    "percentage": 101.38195227179337,
+    "amount": 15.224754375673058
+  },
+  {
+    "donation": 100,
+    "percentage": 101.72179926753967,
+    "amount": 15.212348524541113
+  }
+]
