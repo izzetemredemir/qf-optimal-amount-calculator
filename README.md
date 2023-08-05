@@ -24,8 +24,8 @@ project2: [5, 15]
 project3: [10, 10, 10, 10]
 ```
 In this scenario, the user donates to Project1 in amounts ranging from 1 to 100 dollars.
+## Analysis
 
-## Analysis
 The data set shows that as the donation amount increases, the percentage and the amount also increase.
 
 Donation vs Percentage and Amount
