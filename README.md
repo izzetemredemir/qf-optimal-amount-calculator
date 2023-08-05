@@ -2,7 +2,9 @@
 
 
 This project  analyzes the change and percentage change in the amount of money directed from the reward pool to Project1 as a result of a donation made during a Quadratic Funding vote.
-## Data Set
+
+## Data Set
+
 The dataset includes the percentage of the donation to the total income and the increase in the amount for each donation amount made to Project1 during a Quadratic Funding vote. The following three pieces of information are given for each donation amount:
 
 * donation: The amount of donation
